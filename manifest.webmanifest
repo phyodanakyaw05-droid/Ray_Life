@@ -1,0 +1,18 @@
+{
+  "name": "Ray's Uni & Life Planner",
+  "short_name": "Ray's Planner",
+  "description": "A soft pastel university and daily life planner.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf8fd",
+  "theme_color": "#f5dce8",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
